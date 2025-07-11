@@ -1,0 +1,8 @@
+{
+    "dependencies":["."],
+    "graphs":{
+      "operatorworker_agent":"./operatorworker.py:agent"
+    },
+    "env":"../.env"
+  
+  }
